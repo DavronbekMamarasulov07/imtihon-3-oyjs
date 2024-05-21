@@ -111,7 +111,7 @@ const searchBtnCar = function (event){
         });
     }
     else{
-        alert("Sorry, no matching cars found."); 
+        alert("Kechirasiz bizda bunday mashina mavjud emas,keling men sizga mavjudlarni taqdim etaman"); 
         showSearchFormList(); 
     }
 
